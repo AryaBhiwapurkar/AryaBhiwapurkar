@@ -1,6 +1,12 @@
 # 💫 About Me:
-Final Year Student| C++, MERN Stack Development, Machiner Learning, DSA<br>
+Hello and Welcome
+I'm Arya, a final-year undergraduate at IIIT Naya Raipur with a strong interest in full-stack development and problem-solving. My core area is web development, especially on the backend, where I've worked with technologies like Node.js, Express, MongoDB, React, and Docker.
 
+I’ve had the chance to apply these skills through internships at JSPL and AlgoUniversity, contributing to real-world projects, from building frontend dashboards to deploying backend services on AWS (EC2, ECR). One of the more exciting projects I worked on was a full-stack Online Judge platform with Docker-based code execution and AI-driven feedback, built during my co-op at AlgoUniversity.
+
+Alongside development, I regularly practice Data Structures and Algorithms (DSA) on LeetCode to improve how I think about and write efficient code. I also have academic experience in Machine Learning, with projects in computer vision and deep learning, and some exploration in time series data and NLP as well. While web development and DSA are where I spend most of my time, I’m always curious to explore new tools and ideas across the tech space.
+
+I'm looking forward to opportunities where I can contribute to meaningful projects while continuing to learn and grow.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arya-mahesh-bhiwapurkar-b52577162/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arya.bhiwapukar@gmail.com) 
@@ -12,8 +18,7 @@ Final Year Student| C++, MERN Stack Development, Machiner Learning, DSA<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=AryaBhiwapurkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaBhiwapurkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryaBhiwapurkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
