@@ -1,13 +1,17 @@
 # 💫 About Me:
-Hello and Welcome
-I'm Arya, a final-year undergraduate at IIIT Naya Raipur with a strong interest in full-stack development and problem-solving. My core area is web development, especially on the backend, where I've worked with technologies like Node.js, Express, MongoDB, React, and Docker.
+Hello and welcome 👋
 
-I’ve had the chance to apply these skills through internships at JSPL and AlgoUniversity, contributing to real-world projects, from building frontend dashboards to deploying backend services on AWS (EC2, ECR). One of the more exciting projects I worked on was a full-stack Online Judge platform with Docker-based code execution and AI-driven feedback, built during my co-op at AlgoUniversity.
+I'm Arya, a final-year B.Tech student in Data Science & AI at IIIT Naya Raipur with a strong interest in backend and full-stack development.
 
-Alongside development, I regularly practice Data Structures and Algorithms (DSA) on LeetCode to improve how I think about and write efficient code. I also have academic experience in Machine Learning, with projects in computer vision and deep learning, and some exploration in time series data and NLP as well. While web development and DSA are where I spend most of my time, I’m always curious to explore new tools and ideas across the tech space.
+I enjoy building scalable and reliable systems, and have had the opportunity to work on real-world production applications during my internships at Vassar Labs and Jindal Steel & Power. My work has involved contributing across frontend interfaces, backend services, and system-level logic.
 
-I'm looking forward to opportunities where I can contribute to meaningful projects while continuing to learn and grow.
+One of the most interesting projects I’ve built is a full-stack Online Judge platform that securely executes code using Docker and provides AI-powered feedback on submissions. I’ve also developed systems like a RAG-based document Q&A bot using LangChain and FAISS, and backend APIs with role-based access control using Django REST Framework.
 
+Alongside development, I regularly practice Data Structures and Algorithms and hold a Specialist rating on Codeforces and Knight on LeetCode.
+
+While backend development is my primary focus, I also enjoy exploring applied AI, particularly in areas like LLMs, computer vision, and real-world ML systems.
+
+I'm always looking for opportunities to build impactful systems, learn new technologies, and grow as a software engineer.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arya-mahesh-bhiwapurkar-b52577162/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arya.bhiwapukar@gmail.com) 
 
