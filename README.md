@@ -1,6 +1,18 @@
 # 💫 About Me:
-🔭 I'm currently working on ...<br>Railways anti-collision system at Vassar Labs + juggling <br>multiple side projects (online judges, AI scrapers, RAG bots... <br>the list keeps growing)<br><br>🤝 I'm looking to collaborate on ...<br>Backend / API projects and LLM / AI Agent systems, <br>especially things that solve real problems<br><br>🌱 I'm currently learning ...<br>LLM internals, RAG pipelines, and AI Agents, <br>figuring out how to build systems that actually reason<br><br>💬 Ask me about ...<br>Django REST APIs, Docker-based architectures, <br>async systems, or competitive programming<br><br>⚡ Fun fact ...<br>Interested in everything: distributed systems, AI agents, <br>compilers, you name it. The only problem? <br>24 hours is a terrible limit.
+🔭 I'm currently working on ...
+Railways anti-collision system at Vassar Labs + juggling multiple side projects (online judges, AI scrapers, RAG bots... the list keeps growing)
 
+🤝 I'm looking to collaborate on ...
+Backend / API projects and LLM / AI Agent systems, especially things that solve real problems
+
+🌱 I'm currently learning ...
+LLM internals, RAG pipelines, and AI Agents, figuring out how to build systems that actually reason
+
+💬 Ask me about ...
+Django REST APIs, Docker-based architectures, async systems, or competitive programming
+
+⚡ Fun fact ...
+Interested in everything: distributed systems, AI agents, compilers, you name it. The only problem? 24 hours is a terrible limit.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arya-mahesh-bhiwapurkar-b52577162/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arya.bhiwapurkar@gmail.com) 
