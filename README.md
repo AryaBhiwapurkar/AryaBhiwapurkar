@@ -12,6 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=AryaBhiwapurkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryaBhiwapurkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🧩 Competitive Programming
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhimanyu_18&theme=dark&show_icons=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
